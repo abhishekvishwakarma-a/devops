@@ -1,0 +1,3 @@
+print("sec")
+print("third")
+print("fovrth")
